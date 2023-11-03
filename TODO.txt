@@ -1,0 +1,6 @@
+TODO:
+
+- Toevoegen van recepten
+- Deleten van ingredienten na gebruik
+- Beter AI respons based opu ingredienten
+- Boodschappenlijstje
